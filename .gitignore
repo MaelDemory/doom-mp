@@ -1,0 +1,7 @@
+node_modules/
+# Artefacts produits par le build Docker, jamais commités :
+assets/websockets-doom.js
+assets/websockets-doom.wasm
+assets/websockets-doom.wasm.map
+assets/freedm.wad
+.DS_Store

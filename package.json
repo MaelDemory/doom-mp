@@ -1,0 +1,13 @@
+{
+  "name": "doom-web",
+  "version": "1.0.0",
+  "description": "Doom multijoueur dans le navigateur — client doom-wasm + relais WebSocket + FreeDM",
+  "main": "server.js",
+  "license": "AGPL-3.0-or-later",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
